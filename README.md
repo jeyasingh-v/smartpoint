@@ -86,3 +86,6 @@
 - 	Set Path 
 		export PATH="$PATH:$HOME/.config/composer/vendor/bin"
 - Run tlint command in project root folder
+
+# RUN Unit Test
+-   php artisan test
